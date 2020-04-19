@@ -1,5 +1,5 @@
 # User Intent Prediction in Information-seeking Conversations
-This is the reproduction of "[User Intent Prediction in Information-seeking Conversations](https://arxiv.org/pdf/1901.03489.pdf)". The source code can be found in the [github](https://github.com/prdwb/UserIntentPrediction). We also implement the classificatio with BERT. The BERT is used to encode the utterances, and BilSTM is trained for the classification. 
+This is the reproduction of "[User Intent Prediction in Information-seeking Conversations](https://arxiv.org/pdf/1901.03489.pdf)". The source code can be found in the [github](https://github.com/prdwb/UserIntentPrediction). We also implement the classification with BERT. The BERT is used to encode the utterances, and BilSTM is trained for the classification. 
 
 ## Data
 + We used the "MSDialog-Intent" data in the [MSDialog](https://ciir.cs.umass.edu/downloads/msdialog/) dataset. 
